@@ -1,0 +1,83 @@
+body{
+    background-color: greenyellow;
+}
+header{
+    border: 2px solid black;
+    text-align: center;
+    background-color: rgb(143, 135, 111);
+    color: white;
+    
+}
+section{
+    background-color: indigo;
+}
+.main_section{
+    border: 2px solid black ;
+    margin-top:2px;
+    height:56ex;
+    display: flex;
+    background-color: khaki;
+    padding: 5px 0 0 0;
+
+}
+footer{
+    border: 2px solid black ;
+    margin-top:2px;
+    text-align: center;
+    background-color: rgb(143, 135, 111);
+    color: white;
+}
+
+.sub1 {
+    border: 2px solid black;
+    margin: 2px;
+    width: 54%;
+    padding: 2px;
+    height:54ex;
+    overflow: none;
+    background-color: blue;
+}
+.sub_section_1, .sub_section_2{
+    border: 2px solid black;
+    margin: 2px;
+    height:38ex ;
+    display: flex;
+    
+
+}
+.sub_header_1, .sub_header_2, .sub_footer_1, .sub_footer_2{
+    background-color: rgb(16, 19, 20);
+    color: white;
+}
+.sub2{
+    
+    border: 2px solid black;
+    margin: 2px;
+    width: 45%;
+    padding: 2px;
+    height:54ex;
+    background-color: blue;
+
+}
+.d1, .d3{
+    border: 2px solid black;
+    margin: 2px;
+    width: 35%;
+    height: 37ex;
+}
+.d2{
+    border: 2px solid black;
+    margin: 2px;
+    width: 28%;
+    height: 37ex;
+}
+.d4,.d5{
+    border: 2px solid black;
+    margin: 2px;
+    width: 50%;
+    height: 37ex;
+}
+.d1,.d2,.d3, .d4, .d5{
+    background-color: rgb(103, 177, 219);
+    padding: 4px;
+}
